@@ -19,15 +19,24 @@ Analyze customer data to identify:
 This analysis helps businesses understand **why customers leave and how to improve retention strategies.**
 
 ---
-
 # 📂 Project Structure
-.
-├── Task2.ipynb
-├── cleaned_telco_churn.xlsx
-├── Executive Overview.jpeg
-├── Churn Drivers.jpeg
-├── Retention Insights.jpeg
+
+```
+FUTURE_DS_02/
+│
+├── notebooks/
+│   └── Task2.ipynb
+│
+├── dataset/
+│   └── cleaned_telco_churn.xlsx
+│
+├── dashboards/
+│   ├── Executive-Overview.jpeg
+│   ├── Churn-Drivers.jpeg
+│   └── Retention-Insights.jpeg
+│
 └── README.md
+```
 
 ---
 
