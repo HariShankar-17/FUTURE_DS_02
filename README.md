@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 📊 Customer Churn Analysis – Data Science & Analytics Task 2
 
 This project is part of the **Data Science & Analytics Internship Program** and focuses on analyzing customer churn patterns for a subscription-based telecom business.
