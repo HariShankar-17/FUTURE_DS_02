@@ -183,4 +183,3 @@ This project demonstrates how **data analytics and visualization can help busine
 
 By combining **Python for data processing and Power BI for dashboard storytelling**, the analysis provides both technical insights and business value.
 
----
