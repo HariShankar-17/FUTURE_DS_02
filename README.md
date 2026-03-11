@@ -1,4 +1,3 @@
-# FUTURE_DS_02
 # 📊 Customer Retention & Churn Analysis – Data Science & Analytics
 
 This project is part of the **Data Science & Analytics Internship Program** and focuses on analyzing customer churn patterns for a subscription-based telecom business.
